@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Arjun Sharma",
+    "age": 34,
+    "address": "12 MG Road, Jodhpur, Rajasthan",
+    "phone": "+91-9876543210",
+    "disease": "Hypertension"
+  },
+  {
+    "id": 2,
+    "name": "Priya Mehta",
+    "age": 28,
+    "address": "45 Shastri Nagar, Jaipur, Rajasthan",
+    "phone": "+91-9845123456",
+    "disease": "Diabetes Type 2"
+  },
+  {
+    "id": 3,
+    "name": "Ravi Kumar",
+    "age": 52,
+    "address": "78 Civil Lines, Delhi",
+    "phone": "+91-9712345678",
+    "disease": "Coronary Artery Disease"
+  },
+  {
+    "id": 4,
+    "name": "Sunita Patel",
+    "age": 45,
+    "address": "23 Nehru Street, Ahmedabad, Gujarat",
+    "phone": "+91-9634567890",
+    "disease": "Asthma"
+  },
+  {
+    "id": 5,
+    "name": "Mohammed Iqbal",
+    "age": 61,
+    "address": "9 Park Avenue, Mumbai, Maharashtra",
+    "phone": "+91-9523456789",
+    "disease": "Chronic Kidney Disease"
+  },
+  {
+    "id": 6,
+    "name": "Anjali Singh",
+    "age": 22,
+    "address": "56 Lal Bagh, Lucknow, Uttar Pradesh",
+    "phone": "+91-9411234567",
+    "disease": "Migraine"
+  },
+  {
+    "id": 7,
+    "name": "Deepak Verma",
+    "age": 39,
+    "address": "31 Sector 17, Chandigarh",
+    "phone": "+91-9302345678",
+    "disease": "Tuberculosis"
+  },
+  {
+    "id": 8,
+    "name": "Kavya Nair",
+    "age": 55,
+    "address": "14 Marine Drive, Kochi, Kerala",
+    "phone": "+91-9245678901",
+    "disease": "Rheumatoid Arthritis"
+  },
+  {
+    "id": 9,
+    "name": "Sanjay Gupta",
+    "age": 47,
+    "address": "67 GT Road, Kolkata, West Bengal",
+    "phone": "+91-9134567890",
+    "disease": "Liver Cirrhosis"
+  },
+  {
+    "id": 10,
+    "name": "Fatima Shaikh",
+    "age": 33,
+    "address": "88 Banjara Hills, Hyderabad, Telangana",
+    "phone": "+91-9023456789",
+    "disease": "Thyroid Disorder"
+  }
+]
