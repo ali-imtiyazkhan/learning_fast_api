@@ -9,7 +9,7 @@ class Address(BaseModel):
 class Order(BaseModel):
     order_id: int
     items: List[str]
-    ship_to: Address    # nested model
+    ship_to: Address   # nested model
 
 # Dict is auto-converted to Address
 order = Order(
