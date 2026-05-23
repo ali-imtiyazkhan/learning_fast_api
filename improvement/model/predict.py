@@ -14,6 +14,7 @@ class_labels = model.classes_.tolist()
 def predict_output(user_input: dict):
 
     df = pd.DataFrame([user_input])
+    print(df)
 
     # Predict the class
     predicted_class = model.predict(df)[0]
