@@ -11,7 +11,7 @@ app = FastAPI()
 def home():
     return {'message':'Insurance Premium Prediction API'}
 
-# machine readable
+# health check api
 @app.get('/health')
 def health_check():
     return {
@@ -20,6 +20,7 @@ def health_check():
         'model_loaded': model is not None
     }
 
+# predict premium
 @app.post('/predict', response_model=PredictionResponse)
 def predict_premium(data: UserInput):
 
